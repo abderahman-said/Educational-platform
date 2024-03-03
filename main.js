@@ -67,7 +67,7 @@ $('.owl_carousel').owlCarousel({
       nav: false
     },
     600: {
-      items: 3,
+      items: 2,
       nav: false
     },
     1000: {
@@ -157,7 +157,7 @@ $('.owl_carousel5').owlCarousel({
       nav: false
     },
     600: {
-      items: 6,
+      items: 4,
       nav: false
     },
     1000: {

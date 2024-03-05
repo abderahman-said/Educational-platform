@@ -2020,13 +2020,17 @@ img.isologo {
   padding-top: 20px;
   font-weight: 400 !important;
 }
+.form_footer input {
+  background: #343923;
+}
+
 
 .copy_right_text {
   font-size: 12px !important;
   color: rgba(255,255,255,.25) !important;
 }
 .copy_right_text a {
-  color:   var(--h2) !important;
+  color: #a7af8b !important;
 }
 .copy_right_center {
   text-align: center;
